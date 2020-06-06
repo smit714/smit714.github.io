@@ -28,7 +28,7 @@ link to live site https://smit714.github.io/vaishnavi.github.io/
         
         
 
-        <title>Java</title>
+        <h3>Java</h3>
 
         <br>
         <img src="D:\smit\smit download\java_logo2.jpg" height="150" width="92" />
