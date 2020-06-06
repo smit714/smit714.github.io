@@ -50,7 +50,7 @@ link to live site https://smit714.github.io/vaishnavi.github.io/
 
         <br>
 
-        <h6>JavaScript </h6>
+        <h6>JavaScript</h6>
 
         <br>
 
