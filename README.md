@@ -50,29 +50,7 @@ link to live site https://smit714.github.io/vaishnavi.github.io/
 
         <br>
 
-        <h6>JavaScript</h6>
-
-        <br>
-
-        <body>JavaScript is a client-side programming language that runs inside a client browser and processes commands on a computer rather than a server. It is commonly placed into an HTML or ASP file. Despite its name, JavaScript is not related to Java. </body>
-
-        <br>
-
-        <h7>C Language </h7>
-
-        <br>
-
-        <body>C Language is a structure-oriented, middle-level programming language mostly used to develop low-level applications. </body>
-
-        <br>
-
-        <h8>C++ </h8>
-
-        <br>
-
-        <body>C++ is a general purpose, object-oriented, middle-level programming language and is an extension of C language, which makes it possible to code C++ in a "C style". In some situations, coding can be done in either format, making C++ an example of a hybrid language</body>
-
-        <br>
+       
 
     </head>    
 
