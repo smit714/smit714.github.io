@@ -32,7 +32,7 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
         <h3>Java</h3>
 
         <br>
-         <img src="D:\smit\smit download\java_logo2.jpg" height="150" width="92" />
+         <img src="https://github.com/vaishnavi928/vaishnavi.github.io/blob/master/java_logo2.jpg" height="150" width="92" />
         
         <body> Java is a general-purpose, object-oriented, high-level programming language with several features that make it ideal for web-based development.</body>
 
