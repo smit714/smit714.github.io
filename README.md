@@ -22,9 +22,11 @@ link to live site https://smit714.github.io/vaishnavi.github.io/
         
         <br>
    
-        <body>Python is an advanced programming language that is interpreted, object-oriented and built on flexible and robust semantics.</body>
+        <body>Python is an advanced programming language that is interpreted, object-oriented and built on flexible and robust semantics.</body
 
         <br>
+        
+        
 
         <h3>Java</h3>
 
@@ -33,6 +35,9 @@ link to live site https://smit714.github.io/vaishnavi.github.io/
         <body> Java is a general-purpose, object-oriented, high-level programming language with several features that make it ideal for web-based development.</body>
 
         <br>
+        
+        
+        
 
         <h4>Ruby/Ruby on Rails</h4>
 
@@ -41,6 +46,9 @@ link to live site https://smit714.github.io/vaishnavi.github.io/
         <body> Ruby is an open-sourced, object-oriented scripting language that can be used independently or as part of the Ruby on Rails web framework.</body>
 
         <br>
+        
+        
+        
 
         <h5>HTML (HyperText MarkupLanguage) </h5>
 
