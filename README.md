@@ -21,7 +21,8 @@ link to live site https://smit714.github.io/vaishnavi.github.io/
         <h2>Python</h2>
         
         <br>
-   <img src="D:\smit\smit download\python.jpg" height="150" width="150" />
+         <img src="D:\smit\smit download\python.jpg" height="150" width="150" />
+         
         <body>Python is an advanced programming language that is interpreted, object-oriented and built on flexible and robust semantics.</body>
 
         <br>
@@ -31,7 +32,7 @@ link to live site https://smit714.github.io/vaishnavi.github.io/
         <h3>Java</h3>
 
         <br>
-        <img src="D:\smit\smit download\java_logo2.jpg" height="150" width="92" />
+         <img src="D:\smit\smit download\java_logo2.jpg" height="150" width="92" />
         
         <body> Java is a general-purpose, object-oriented, high-level programming language with several features that make it ideal for web-based development.</body>
 
@@ -43,7 +44,7 @@ link to live site https://smit714.github.io/vaishnavi.github.io/
         <h4>Ruby/Ruby on Rails</h4>
 
         <br>
-        <img src="D:\smit\smit download\ruby.jpg" height="150" width="150" />
+         <img src="D:\smit\smit download\ruby.jpg" height="150" width="150" />
 
         <body> Ruby is an open-sourced, object-oriented scripting language that can be used independently or as part of the Ruby on Rails web framework.</body>
 
@@ -55,7 +56,7 @@ link to live site https://smit714.github.io/vaishnavi.github.io/
         <h5>HTML (HyperText MarkupLanguage) </h5>
 
         <br>
-        <img src="D:\smit\smit download\html.jpg" height="150" width="150" />
+         <img src="D:\smit\smit download\html.jpg" height="150" width="150" />
 
         <body>HTML is the standard markup language used to create web pages; it ensures proper formatting of text and images (using tags) so that Internet browsers can display them in the ways they were intended to look. </body>
 
