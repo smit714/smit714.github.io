@@ -21,7 +21,7 @@ link to live site https://smit714.github.io/vaishnavi.github.io/
         <h2>Python</h2>
         
         <br>
-         <img src="D:\smit\smit download\python.jpg" alt="image" height="150" width="150" />
+         <img src="D:\smit\smit download\python.jpg" alt="image"/>
          
         <body>Python is an advanced programming language that is interpreted, object-oriented and built on flexible and robust semantics.</body>
 
