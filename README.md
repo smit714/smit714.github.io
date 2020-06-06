@@ -21,7 +21,7 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
         <h2>Python</h2>
         
         <br>
-         <img src="https://github.com/vaishnavi928/vaishnavi.github.io/blob/master/python.jpg" height="150" width="150" />
+         <img src="https://github.com/vaishnavi928/vaishnavi.github.io/blob/master/python.jpg?raw=true" height="150" width="150" />
          
         <body>Python is an advanced programming language that is interpreted, object-oriented and built on flexible and robust semantics.</body>
 
