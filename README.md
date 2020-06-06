@@ -44,7 +44,7 @@ link to live site https://smit714.github.io/vaishnavi.github.io/
         <h4>Ruby/Ruby on Rails</h4>
 
         <br>
-         <img src="D:\smit\smit download\ruby.jpg" height="150" width="150" />
+         <img src="https://github.com/vaishnavi928/vaishnavi.github.io/blob/master/ruby.jpg" height="150" width="150" />
 
         <body> Ruby is an open-sourced, object-oriented scripting language that can be used independently or as part of the Ruby on Rails web framework.</body>
 
