@@ -21,7 +21,7 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
         <h2>Python</h2>
         
         <br>
-         <img src="https://github.com/vaishnavi928/vaishnavi.github.io/blob/master/python.jpg" height="150" width="150" />
+         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="150" width="150" />
          
         <body>Python is an advanced programming language that is interpreted, object-oriented and built on flexible and robust semantics.</body>
 
@@ -32,7 +32,7 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
         <h3>Java</h3>
 
         <br>
-         <img src="https://github.com/vaishnavi928/vaishnavi.github.io/blob/master/java_logo2.jpg" height="150" width="92" />
+         <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" height="150" width="92" />
         
         <body> Java is a general-purpose, object-oriented, high-level programming language with several features that make it ideal for web-based development.</body>
 
@@ -44,7 +44,7 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
         <h4>Ruby/Ruby on Rails</h4>
 
         <br>
-         <img src="https://github.com/vaishnavi928/vaishnavi.github.io/blob/master/ruby.jpg" height="150" width="150" />
+         <img src="https://res.cloudinary.com/highereducation/image/upload/f_auto,fl_lossy,q_auto:eco/v1/ComputerScience.org/2015/10/ruby-logo-e1458852179747.png" height="150" width="150" />
 
         <body> Ruby is an open-sourced, object-oriented scripting language that can be used independently or as part of the Ruby on Rails web framework.</body>
 
@@ -56,7 +56,7 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
         <h5>HTML (HyperText MarkupLanguage) </h5>
 
         <br>
-         <img src="https://github.com/vaishnavi928/vaishnavi.github.io/blob/master/html.jpg" height="150" width="150" />
+         <img src="https://res.cloudinary.com/highereducation/image/upload/f_auto,fl_lossy,q_auto:eco/v1/ComputerScience.org/2015/10/HTML5_logo-e1458852233788.png" height="150" width="150" />
 
         <body>HTML is the standard markup language used to create web pages; it ensures proper formatting of text and images (using tags) so that Internet browsers can display them in the ways they were intended to look. </body>
 
