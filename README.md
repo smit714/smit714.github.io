@@ -1,69 +1,139 @@
 link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
-<html>
-    <head>
-        <h1>
-            Computer Programming Languages
-        </h1>
-        <br>
+<html><head>
+		<title>Sample Website</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+		<link rel="stylesheet" href="assets/css/main.css">
+	</head>
+	<body class="">
 
-    </head>
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-    <head>
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
 
-        <h1>What are Computer ProgrammingLanguages?</h1>
+							<!-- Header -->
+								<header id="header">
+									<a href="index.html" class="logo">Personal Information</a>
+									
+										
+									
+								</header>
 
-        <br>
+							<!-- Banner -->
+								<section id="banner">
+									<div class="content">
+										<header>
+											<h1>Hello Friends !</h1>
+											<p>My name is vaishnavi savaliya and I introduced myself amongs you.</p>
+										</header>
 
-        <body>Computer programming languages allow us to give instructions to a computer in a language the computer understands. Just as many human-based languages exist, there are an array of computer programming languages that programmers can use to communicate with a computer. The portion of the language that a computer can understand is called a “binary.” Translating programming language into binary is known as “compiling.” Each language, from C Language to Python, has its own distinct features, though many times there are commonalities between programming languages. These languages allow computers to quickly and efficiently process large and complex swaths of information. For example, if a person is given a list of randomized numbers ranging from one to ten thousand and is asked to place them in ascending order, chances are that it will take a sizable amount of time and include some errors. There are dozens of programming languages used in the industry today. We've compiled overviews of the 12 most important, relevant and in-demand of these languages below.</body>
+										<p>Hello Friends, My name is Vaishnavi Savaliya and I am a college student and I am studying in first year of diploma at VPMP Polytechnic,Gandinagar, Ahmedabad. I am creating my first website with the help of github, I am also interested  in web developement and also have knowledge about various other coding languages. So I am creating my own website. </p>
+										
+									</div>
+									<span class="image object">
+										<img src="" alt="">
+									</span>
+								</section>
 
-        <br>
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Let's us learn about Computer Programming Languages</h2>
+									</header>
+									<div class="features">
+										
+										<article>
+											<img src="https://www.vippng.com/png/full/398-3984086_history-of-c-programming-language-circle.png" height="80" alt="" "="">
+											<div class="content">
+												<h3>C</h3>
+												 <p>C Language is a structure-oriented, middle-level programming language mostly used to develop
+													low-level applications.</p>
 
-        <h2>Python</h2>
-        
-        <br>
-         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="150" width="150" />
-         
-        <body>Python is an advanced programming language that is interpreted, object-oriented and built on flexible and robust semantics.</body>
+											</div>
+										</article>
+										
+										<article>
+										<img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" height="80" alt="" "="">
+											<div class="content">
+												<h3>Java</h3>
+												 <p>Java is a general-purpose, object-oriented, high-level programming language with several features
+													that make it ideal for web-based development.</p>
+												
+											</div>
+										</article>
 
-        <br>
-        
-        
+										<article>
+										<img src="https://res.cloudinary.com/highereducation/image/upload/f_auto,fl_lossy,q_auto:eco/v1/ComputerScience.org/2015/10/ruby-logo-e1458852179747.png" height="80" alt="" "="">
+											<div class="content">
+												<h3>Ruby/Ruby on Rails</h3>
+												 <p>Ruby is an open-sourced, object-oriented scripting language that can be used independently or as part of the Ruby on Rails web framework.</p>
 
-        <h3>Java</h3>
+											</div>
+										</article>
+										
+										<article>
+										<img src="https://res.cloudinary.com/highereducation/image/upload/f_auto,fl_lossy,q_auto:eco/v1/ComputerScience.org/2015/10/HTML5_logo-e1458852233788.png" height="80" alt="" "="">
+											<div class="content">
+												<h3>HTML</h3>
+												 <p>HTML is the standard markup language used to create web pages; it ensures proper formatting of text
+													and images (using tags) so that Internet browsers can display them in the ways they were intended to
+													look.</p>
+												
+											</div>
+										</article>
 
-        <br>
-         <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" height="150" width="92" />
-        
-        <body> Java is a general-purpose, object-oriented, high-level programming language with several features that make it ideal for web-based development.</body>
+										<article>
+										<img src="https://www.ateamindia.com/wp-content/uploads/2020/02/javascript-logo.jpg" height="80" alt="" "="">
+											<div class="content">
+												<h3>JavaScript</h3>
+												 <p>JavaScript is a client-side programming language that runs inside a client browser and processes
+													commands on a computer rather than a server. It is commonly placed into an HTML or ASP file. Despite
+													its name, JavaScript is not related to Java.</p>
 
-        <br>
-        
-        
-        
+											</div>
+										</article>
 
-        <h4>Ruby/Ruby on Rails</h4>
+										<article>
+										<img src="https://cdn4.iconfinder.com/data/icons/flat-pro-database-set-3/32/document-sql-512.png" height="80" alt="" "="">
+											<div class="content">
+												<h3>SQL</h3>
+												 <p>SQL is a database query language (not a development language) that allows for adding, accessing and
+													managing content in a database. It is the language that allows programmers to perform the common
+													acronym CRUD (Create; Read; Update; Delete) within a database.</p>
+												
+											</div>
+										</article>
 
-        <br>
-         <img src="https://res.cloudinary.com/highereducation/image/upload/f_auto,fl_lossy,q_auto:eco/v1/ComputerScience.org/2015/10/ruby-logo-e1458852179747.png" height="150" width="150" />
+										<article>
+										<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="80" alt="" "="">
+											<div class="content">
+												<h3>Python</h3>
+												 <p>Python is an advanced programming language that is interpreted, object-oriented and built on flexible
+													and robust semantics.</p>
+												
+											</div>
+										</article>
 
-        <body> Ruby is an open-sourced, object-oriented scripting language that can be used independently or as part of the Ruby on Rails web framework.</body>
+										<article>
+										<img src="https://res.cloudinary.com/highereducation/image/upload/f_auto,fl_lossy,q_auto:eco/v1/ComputerScience.org/2015/10/cplusplus-e1458851875453.png" height="80" alt="" "="">
+											<div class="content">
+												<h3>C++</h3>
+												 <p>C++ is a general purpose, object-oriented, middle-level programming language and is an extension of C
+													language, which makes it possible to code C++ in a “C style”. In some situations, coding can be done
+													in either format, making C++ an example of a hybrid language.</p>
 
-        <br>
-        
-        
-        
+											</div>
 
-        <h5>HTML (HyperText MarkupLanguage) </h5>
+										</article>
 
-        <br>
-         <img src="https://res.cloudinary.com/highereducation/image/upload/f_auto,fl_lossy,q_auto:eco/v1/ComputerScience.org/2015/10/HTML5_logo-e1458852233788.png" height="150" width="150" />
+										
+									</div>
+								</section>
 
-        <body>HTML is the standard markup language used to create web pages; it ensures proper formatting of text and images (using tags) so that Internet browsers can display them in the ways they were intended to look. </body>
+							
+	
 
-        <br>
-
-       
-
-    </head>    
-
-</html>
+</div></div></div></body></html>
