@@ -1,27 +1,6 @@
 link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
 <html><head>
 		<title>Sample Website</title>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-		<link rel="stylesheet" href="assets/css/main.css">
-	</head>
-	<body class="">
-
-		<!-- Wrapper -->
-			<div id="wrapper">
-
-				<!-- Main -->
-					<div id="main">
-						<div class="inner">
-
-							<!-- Header -->
-								<header id="header">
-									<a href="index.html" class="logo">Personal Information</a>
-									
-										
-									
-								</header>
-
 							<!-- Banner -->
 								<section id="banner">
 									<div class="content">
