@@ -1,5 +1,6 @@
 link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
-<html><head>
+<html>
+	<head>
 		<title>Sample Website</title>
 							<!-- Banner -->
 								<section id="banner">
@@ -111,8 +112,5 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
 										
 									</div>
 								</section>
-
-							
-	
-
-</div></div></div></body></html>
+	</head>
+</html>
