@@ -109,7 +109,7 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
 
 										</article>
 
-										
+								
 									</div>
 								</section>
 
@@ -186,6 +186,7 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
 								
 											
 										</div>
-								</div></section>
+									</div>	
+								</section>
 	</head>
 </html>
