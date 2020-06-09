@@ -112,19 +112,5 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
 										
 									</div>
 								</section>
-								
-								<p class="title-s">Skill</p>	
-
-									<svg width="336" height="135" class="gauge-labels" style="position: absolute; z-index: 1;"><g transform="translate(168, 64.8)"><text class="value">85.0%</text></g></svg>	
-									<h5 class="text-center">HTML</h5>
-
-
-
-
-
-
-
-
-
 	</head>
 </html>
