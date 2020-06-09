@@ -25,7 +25,7 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
 									<div class="features">
 										
 										<article>
-											<img src="https://www.vippng.com/png/full/398-3984086_history-of-c-programming-language-circle.png" height="80" alt="" "="">
+											<img src="https://www.vippng.com/png/full/398-3984086_history-of-c-programming-language-circle.png" height="80" />
 											<div class="content">
 												<h3>C</h3>
 												 <p>C Language is a structure-oriented, middle-level programming language mostly used to develop
