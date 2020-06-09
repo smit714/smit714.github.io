@@ -113,80 +113,28 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
 									</div>
 								</section>
 
-								<section class="progress-bars3 cid-s0ccHynYTx" id="progress-bars3-5">
- 
-     
-
-    
-    
-									<div class="container">
-										<h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">
-											Skills</h2>
-								
-										
-									
-										<div class="media-container-row pt-5 mt-2">
-											<div class="card p-3 align-center">
-												<div class="wrap">
-													<div class="pie_progress progress1" role="progressbar" data-goal="73" aria-valuenow="73">
-														<p class="pie_progress__number mbr-fonts-style display-5">73%</p>
-													<div class="undefined"><svg version="1.1" preserveAspectRatio="xMinYMin meet" viewBox="0 0 150 150"><ellipse rx="71" ry="71" cx="75" cy="75" stroke="#f2f2f2" fill="none" stroke-width="8"></ellipse><path fill="none" stroke-width="8" stroke="url(#progress-bars3-5-svg-gradient)" d="M75,4 A71,71 0 1 1 4.55985620667208,83.89865958306562" style="stroke-dasharray: 325.696, 325.696; stroke-dashoffset: 0;"></path></svg></div></div>
-												</div> 
-												<div class="mbr-crt-title pt-3">
-													<h4 class="card-title py-2 mbr-fonts-style display-5">
-														Java</h4>
-												</div>                 
+								<section>
+									<div>
+										<div class="skill-mf">
+											<p class="title-s">Skill</p>
+											<span>HTML</span> <span class="pull-right">85%</span>
+											<div class="progress">
+											  <div class="progress-bar" role="progressbar" style="width: 85%;" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
-								
-											<div class="card p-3 align-center">
-												<div class="wrap">
-													<div class="pie_progress progress2" role="progressbar" data-goal="96" aria-valuenow="96">
-														<p class="pie_progress__number mbr-fonts-style display-5">96%</p>
-													<div class="undefined"><svg version="1.1" preserveAspectRatio="xMinYMin meet" viewBox="0 0 150 150"><ellipse rx="71" ry="71" cx="75" cy="75" stroke="#f2f2f2" fill="none" stroke-width="8"></ellipse><path fill="none" stroke-width="8" stroke="url(#progress-bars3-5-svg-gradient)" d="M75,4 A71,71 0 1 1 57.34301801129527,6.230595559867197" style="stroke-dasharray: 428.309, 428.309; stroke-dashoffset: 0;"></path></svg></div></div>
-												</div> 
-												<div class="mbr-crt-title pt-3">
-													<h4 class="card-title py-2 mbr-fonts-style display-5">Presentation&nbsp;</h4>
-												</div>                 
+											<span>CSS3</span> <span class="pull-right">75%</span>
+											<div class="progress">
+											  <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
-								
-											<div class="card p-3 align-center">
-												<div class="wrap">
-													<div class="pie_progress progress3" role="progressbar" data-goal="54" aria-valuenow="54">
-														<p class="pie_progress__number mbr-fonts-style display-5">54%</p>
-													<div class="undefined"><svg version="1.1" preserveAspectRatio="xMinYMin meet" viewBox="0 0 150 150"><ellipse rx="71" ry="71" cx="75" cy="75" stroke="#f2f2f2" fill="none" stroke-width="8"></ellipse><path fill="none" stroke-width="8" stroke="url(#progress-bars3-5-svg-gradient)" d="M75,4 A71,71 0 1 1 57.34301801129533,143.7694044401328" style="stroke-dasharray: 240.902, 240.902; stroke-dashoffset: 0;"></path></svg></div></div>
-												</div> 
-												<div class="mbr-crt-title pt-3">
-													<h4 class="card-title py-2 mbr-fonts-style display-5">Dynamic Web Development</h4>
-												</div>                 
+											<span>PHP</span> <span class="pull-right">50%</span>
+											<div class="progress">
+											  <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
-								
-											<div class="card p-3 align-center">
-												<div class="wrap">
-													<div class="pie_progress progress4" role="progressbar" data-goal="36" aria-valuenow="36">
-														<p class="pie_progress__number mbr-fonts-style display-5">36%</p>
-													<div class="undefined"><svg version="1.1" preserveAspectRatio="xMinYMin meet" viewBox="0 0 150 150"><ellipse rx="71" ry="71" cx="75" cy="75" stroke="#f2f2f2" fill="none" stroke-width="8"></ellipse><path fill="none" stroke-width="8" stroke="url(#progress-bars3-5-svg-gradient)" d="M75,4 A71,71 0 0 1 129.70644023708104,120.25710327215697" style="stroke-dasharray: 160.601, 160.601; stroke-dashoffset: 0;"></path></svg></div></div>
-												</div> 
-												<div class="mbr-crt-title pt-3">
-													<h4 class="card-title py-2 mbr-fonts-style display-5">
-														Android Development</h4>
-												</div>                 
+											<span>JAVASCRIPT</span> <span class="pull-right">90%</span>
+											<div class="progress">
+											  <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
-								
-											<div class="card p-3 align-center">
-												<div class="wrap">
-													<div class="pie_progress progress5" role="progressbar" data-goal="22" aria-valuenow="22">
-														<p class="pie_progress__number mbr-fonts-style display-5">22%</p>
-													<div class="undefined"><svg version="1.1" preserveAspectRatio="xMinYMin meet" viewBox="0 0 150 150"><ellipse rx="71" ry="71" cx="75" cy="75" stroke="#f2f2f2" fill="none" stroke-width="8"></ellipse><path fill="none" stroke-width="8" stroke="url(#progress-bars3-5-svg-gradient)" d="M75,4 A71,71 0 0 1 144.7423948017369,61.69592666441354" style="stroke-dasharray: 98.1498, 98.1498; stroke-dashoffset: 0;"></path></svg></div></div>
-												</div> 
-												<div class="mbr-crt-title pt-3">
-													<h4 class="card-title py-2 mbr-fonts-style display-5">
-														Python</h4>
-												</div>                 
-											</div>
-								
-											
-										</div>
-									</div>	
+										  </div>
+									</div>
 								</section>
 	</head>
 </html>
