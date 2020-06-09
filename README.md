@@ -14,7 +14,7 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
 										
 									</div>
 									<span class="image object">
-										<img src="" alt="">
+										<img src="https://ncube-digest.com/wp-content/uploads/2019/11/AI-Programming.png" />
 									</span>
 								</section>
 
