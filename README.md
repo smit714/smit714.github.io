@@ -139,31 +139,31 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
 			
 			<div class="Skills-area">
 				<div class="single-skill">
-					<div class="circlechart" data-percentage="-20">HTML</div>
+					<div class="circlechart" data-percentage="85%">HTML</div>
 				</div>
 			</div>
 
 			<div class="Skills-area">
 				<div class="single-skill">
-					<div class="circlechart" data-percentage="-20">JAVA</div>
+					<div class="circlechart" data-percentage="73%">JAVA</div>
 				</div>
 			</div>
 
 			<div class="Skills-area">
 				<div class="single-skill">
-					<div class="circlechart" data-percentage="-20">Python</div>
+					<div class="circlechart" data-percentage="22%">Python</div>
 				</div>
 			</div>
 
 			<div class="Skills-area">
 				<div class="single-skill">
-					<div class="circlechart" data-percentage="-20">JavaScript</div>
+					<div class="circlechart" data-percentage="90%">JavaScript</div>
 				</div>
 			</div>
 
 			<div class="Skills-area">
 				<div class="single-skill">
-					<div class="circlechart" data-percentage="-20">C++</div>
+					<div class="circlechart" data-percentage="10%">C++</div>
 				</div>
 			</div>
 
