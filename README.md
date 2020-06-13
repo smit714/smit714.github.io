@@ -1,39 +1,5 @@
 link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
 <html>
-
-	<head>
-		<meta charset="utf-8">
-		<title>Vaishnavi Savaliya Portfolio</title>
-		<meta content="width=device-width, initial-scale=1.0" name="viewport">
-		<meta content="" name="keywords">
-		<meta content="" name="description">
-	  
-		<!-- Favicons -->
-		<link href="img/favicon.png" rel="icon">
-		<link href="img/apple-touch-icon.png" rel="apple-touch-icon">
-	  
-		<!-- Bootstrap CSS File -->
-		<link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-	  
-		<!-- Libraries CSS Files -->
-		<link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-		<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-		<link href="lib/animate/animate.min.css" rel="stylesheet">
-		<link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
-		<link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-		<link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
-	  
-		<!-- Main Stylesheet File -->
-		<link href="css/style.css" rel="stylesheet">
-	  
-		<!-- =======================================================
-		  Theme Name: DevFolio
-		  Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-		  Author: BootstrapMade.com
-		  License: https://bootstrapmade.com/license/
-		======================================================= -->
-	</head>
-
 	<body id="page-top">
 
 		<title>Sample Website</title>
@@ -188,7 +154,7 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
 
 
 
-		 <!--/ Section Contact-footer End /-->
+		<!--/ Section Contact-footer End /-->
 
  		<a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
 		<div id="preloader"></div>
