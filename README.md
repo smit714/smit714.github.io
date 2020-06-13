@@ -7,7 +7,7 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
 		<section id="banner">
 			<div class="content">
 				<header>
-					<h1>Hello Friends !</h1>
+					<h1>Hello Everyone !</h1>
 					<p>My name is vaishnavi savaliya and I introduced myself amongs you.</p>
 				</header>
 
@@ -125,6 +125,24 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
 					</div>
 				</article>
 			</div>	
+		</section>	
+
+		<section id="service" class="services-mf route">
+			<div class="container">
+			  <div class="row">
+				<div class="col-sm-12">
+				  <div class="title-box text-center">
+					<h3 class="title-a">
+					  Thank You For Visiting My Website 
+					</h3>
+					<p class="subtitle-a">
+					  
+					</p>
+					<div class="line-mf"></div>
+				  </div>
+				</div>
+			  </div>
+			</div>
 		</section>	
 
 	</body>
