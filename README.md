@@ -128,7 +128,7 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
 
 
 		</div>
-		
+
 		<div class="skill-mf">
 			<p class="title-s">Skill</p>
 			<span>HTML</span> <span class="pull-right">85%</span>
@@ -151,7 +151,6 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
 			  <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0"
 				aria-valuemax="100"></div>
 			</div>
-		  </div>
 		</div>
 
 </head>
