@@ -9,7 +9,7 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
 			<header>
 				<h1>Hello Friends !</h1>
 				<p>My name is vaishnavi savaliya and I introduced myself amongs you.</p>
-			</header>
+				</header>
 
 			<p>Hello Friends, My name is Vaishnavi Savaliya and I am a college student and I am studying in first year
 				of diploma at VPMP Polytechnic,Gandinagar, Ahmedabad. I am creating my first website with the help of
@@ -128,66 +128,31 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
 
 
 		</div>
-	</section>
-
-		<link rel="stylesheet" href="progresscircle.css">
-		<link rel="stylesheet" href="style.css">
-
-	<body>
-		<div class="wrapper">
-			<h2>Skills</h2>
-			
-			<div class="Skills-area">
-				<div class="single-skill">
-					<div class="circlechart" data-percentage="85%">HTML</div>
-				</div>
+		
+		<div class="skill-mf">
+			<p class="title-s">Skill</p>
+			<span>HTML</span> <span class="pull-right">85%</span>
+			<div class="progress">
+			  <div class="progress-bar" role="progressbar" style="width: 85%;" aria-valuenow="85" aria-valuemin="0"
+				aria-valuemax="100"></div>
 			</div>
-
-			<div class="Skills-area">
-				<div class="single-skill">
-					<div class="circlechart" data-percentage="73%">JAVA</div>
-				</div>
+			<span>CSS3</span> <span class="pull-right">75%</span>
+			<div class="progress">
+			  <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0"
+				aria-valuemax="100"></div>
 			</div>
-
-			<div class="Skills-area">
-				<div class="single-skill">
-					<div class="circlechart" data-percentage="22%">Python</div>
-				</div>
+			<span>PHP</span> <span class="pull-right">50%</span>
+			<div class="progress">
+			  <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0"
+				aria-valuemax="100"></div>
 			</div>
-
-			<div class="Skills-area">
-				<div class="single-skill">
-					<div class="circlechart" data-percentage="90%">JavaScript</div>
-				</div>
+			<span>JAVASCRIPT</span> <span class="pull-right">90%</span>
+			<div class="progress">
+			  <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0"
+				aria-valuemax="100"></div>
 			</div>
-
-			<div class="Skills-area">
-				<div class="single-skill">
-					<div class="circlechart" data-percentage="10%">C++</div>
-				</div>
-			</div>
-
-
+		  </div>
 		</div>
-
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-		<script src="progresscircle.js"></script>
-		<script>
-			$(function(){
-
-				$('.circlechart').circlechart();
-
-			});
-		</script>
-
-
-	</body>
-
-
-
-
-
-
 
 </head>
 
