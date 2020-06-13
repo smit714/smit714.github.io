@@ -125,58 +125,7 @@ link to live site https://vaishnavi928.github.io/vaishnavi.github.io/
 					</div>
 				</article>
 			</div>	
-			<div class="skill-mf">
-				<p class="title-s">Skill</p>
-				<span>HTML</span> <span class="pull-right">85%</span>
-				<div class="progress">
-				  <div class="progress-bar" role="progressbar" style="width: 85%;" aria-valuenow="85" aria-valuemin="0"
-					aria-valuemax="100"></div>
-				</div>
-				<span>CSS3</span> <span class="pull-right">75%</span>
-				<div class="progress">
-				  <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0"
-					aria-valuemax="100"></div>
-				</div>
-				<span>PHP</span> <span class="pull-right">50%</span>
-				<div class="progress">
-				  <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0"
-					aria-valuemax="100"></div>
-				</div>
-				<span>JAVASCRIPT</span> <span class="pull-right">90%</span>
-				<div class="progress">
-				  <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0"
-					aria-valuemax="100"></div>
-				</div>
-			  </div>
-		</section>
-
-			
-
-
-
-		<!--/ Section Contact-footer End /-->
-
- 		<a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
-		<div id="preloader"></div>
-
- 		<!-- JavaScript Libraries -->
- 		<script src="lib/jquery/jquery.min.js"></script>
- 		<script src="lib/jquery/jquery-migrate.min.js"></script>
- 		<script src="lib/popper/popper.min.js"></script>
- 		<script src="lib/bootstrap/js/bootstrap.min.js"></script>
- 		<script src="lib/easing/easing.min.js"></script>
- 		<script src="lib/counterup/jquery.waypoints.min.js"></script>
- 		<script src="lib/counterup/jquery.counterup.js"></script>
- 		<script src="lib/owlcarousel/owl.carousel.min.js"></script>
- 		<script src="lib/lightbox/js/lightbox.min.js"></script>
- 		<script src="lib/typed/typed.min.js"></script>
- 		<!-- Contact Form JavaScript File -->
- 		<script src="contactform/contactform.js"></script>
-
- 		<!-- Template Main Javascript File -->
- 		<script src="js/main.js"></script>
-
-
+		</section>	
 
 	</body>
 </html>
